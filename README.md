@@ -12,7 +12,7 @@ TANK-BUSTER is a game based in the classic "Combat", a PvP game that each player
 
 To play Tank Buster, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/FredericoFerri/TANK-BUSTER-combat-.git`
+1. Clone the repository: `git clone https://github.com/FredericoFerri/TANK-BUSTER-combat-.git` or download the .zip file
 2. Go to https://liballeg.org/download.html and install Allegro library.
 
 ## Playing
